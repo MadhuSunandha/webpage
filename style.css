@@ -16,7 +16,7 @@ h5, h6 {
 
 a {
     text-decoration: none;
-    color: #f9f9f9;
+    color: #0b6b5b;
     font-weight: bold;
 }
 
@@ -27,6 +27,8 @@ a {
 }
 
 .menu a {
+    color: #ffffff; 
+    font-weight: bold;
     margin: 0 20px;
 }
 .sidebar {
@@ -84,4 +86,7 @@ frame, iframe {
     box-shadow: 0 0 5px rgba(0,0,0,0.1);
     border-radius: 4px;
 }
+
+
+
 
